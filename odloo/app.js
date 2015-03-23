@@ -20,7 +20,7 @@ listed_doc_links = []
 
 github.authenticate({
     type: "oauth",
-    token: "6de09d7d6e90307ef0ebf460f97851e0f9ee587b"
+    token: "b0c3fccbc503bd67c592a2789bbfe3303cab0a35"
 });
 
 github.gitdata.getTree({
